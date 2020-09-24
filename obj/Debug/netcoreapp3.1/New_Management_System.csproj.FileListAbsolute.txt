@@ -1,0 +1,13 @@
+D:\gif CG\levantuanpxu\ New_Management_System\bin\Debug\netcoreapp3.1\New_Management_System.exe
+D:\gif CG\levantuanpxu\ New_Management_System\bin\Debug\netcoreapp3.1\New_Management_System.deps.json
+D:\gif CG\levantuanpxu\ New_Management_System\bin\Debug\netcoreapp3.1\New_Management_System.runtimeconfig.json
+D:\gif CG\levantuanpxu\ New_Management_System\bin\Debug\netcoreapp3.1\New_Management_System.runtimeconfig.dev.json
+D:\gif CG\levantuanpxu\ New_Management_System\bin\Debug\netcoreapp3.1\New_Management_System.dll
+D:\gif CG\levantuanpxu\ New_Management_System\bin\Debug\netcoreapp3.1\New_Management_System.pdb
+D:\gif CG\levantuanpxu\ New_Management_System\obj\Debug\netcoreapp3.1\New_Management_System.csprojAssemblyReference.cache
+D:\gif CG\levantuanpxu\ New_Management_System\obj\Debug\netcoreapp3.1\New_Management_System.AssemblyInfoInputs.cache
+D:\gif CG\levantuanpxu\ New_Management_System\obj\Debug\netcoreapp3.1\New_Management_System.AssemblyInfo.cs
+D:\gif CG\levantuanpxu\ New_Management_System\obj\Debug\netcoreapp3.1\New_Management_System.csproj.CoreCompileInputs.cache
+D:\gif CG\levantuanpxu\ New_Management_System\obj\Debug\netcoreapp3.1\New_Management_System.dll
+D:\gif CG\levantuanpxu\ New_Management_System\obj\Debug\netcoreapp3.1\New_Management_System.pdb
+D:\gif CG\levantuanpxu\ New_Management_System\obj\Debug\netcoreapp3.1\New_Management_System.genruntimeconfig.cache
